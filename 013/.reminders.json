@@ -1,8 +1,8 @@
 {
     "reminders": [
-      "get banana from kitchen",
-      "put food in fridge",
-      "go to standup",
-      "commit work"
-  ]
-  }
+        "get banana from kitchen",
+        "put food in fridge",
+        "commit work",
+        "go shopping!"
+    ]
+}
