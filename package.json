@@ -1,0 +1,17 @@
+{
+  "name": "nobot-plygrnd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sagar",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^3.0.0",
+    "colors": "^1.3.3",
+    "readline-sync": "^1.4.9",
+    "shelljs": "^0.8.3"
+  }
+}
